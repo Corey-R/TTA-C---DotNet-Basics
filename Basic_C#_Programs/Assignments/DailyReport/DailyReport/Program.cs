@@ -28,11 +28,12 @@ namespace DailyReport
             // Though asking for a number, Console.ReadLine() only accepts...
             // string values and since no math is needed it will remain a string
             string pageNumber = Console.ReadLine();
+            int pgNum = Convert.ToInt32(pageNumber);
 
             Console.WriteLine("\n4. Do you need help with anything? Please answer \"True\" or \"False\".");
             string needHelp = Console.ReadLine();
             // NOTE: to convert to boolean if needed...
-            // bool helpAnswer = Convert.ToString(needHelp);
+            bool helpAnswer = Convert.ToBoolean(needHelp);
 
             Console.WriteLine("\n5. Were there any positive experiences you'd like to share? Please give specifics.");
             string positiveXp = Console.ReadLine();
@@ -42,6 +43,7 @@ namespace DailyReport
 
             Console.WriteLine("\n7. How many hours did you study today?");
             string hoursStudied = Console.ReadLine();
+            int hrsStudied = Convert.ToInt32(hoursStudied);
 
             Console.WriteLine("\n\nThank you for your answers. An instructor will respond to this shortly. \nHave a great day!");
             Console.Read();
