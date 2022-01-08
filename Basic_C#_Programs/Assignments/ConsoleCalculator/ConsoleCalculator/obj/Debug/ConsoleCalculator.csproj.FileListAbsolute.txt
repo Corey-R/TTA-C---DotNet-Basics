@@ -1,0 +1,6 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

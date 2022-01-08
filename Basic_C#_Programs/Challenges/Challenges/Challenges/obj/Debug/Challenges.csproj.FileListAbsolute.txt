@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\obj\Debug\Challenges.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\Challenges\Challenges\obj\Debug\Challenges.pdb
