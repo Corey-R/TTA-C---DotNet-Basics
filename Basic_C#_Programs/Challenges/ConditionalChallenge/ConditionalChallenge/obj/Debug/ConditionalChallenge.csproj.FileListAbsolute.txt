@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\obj\Debug\ConditionalChallenge.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\obj\Debug\ConditionalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\bin\Debug\ConditionalChallenge.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\bin\Debug\ConditionalChallenge.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\bin\Debug\ConditionalChallenge.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\obj\Debug\ConditionalChallenge.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Challenges\ConditionalChallenge\ConditionalChallenge\obj\Debug\ConditionalChallenge.pdb
