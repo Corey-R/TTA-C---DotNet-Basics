@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\Loops\Loops\obj\Debug\Loops.pdb

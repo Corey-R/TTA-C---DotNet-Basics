@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\bin\Debug\LoopsAssignment.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\LoopsAssignment\LoopsAssignment\obj\Debug\LoopsAssignment.pdb
