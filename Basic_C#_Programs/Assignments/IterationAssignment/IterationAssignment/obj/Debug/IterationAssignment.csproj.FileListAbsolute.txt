@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\bin\Debug\IterationAssignment.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\IterationAssignment\IterationAssignment\obj\Debug\IterationAssignment.pdb
