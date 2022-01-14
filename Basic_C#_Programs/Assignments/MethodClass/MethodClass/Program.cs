@@ -13,7 +13,7 @@ namespace MethodClass
             // instantiating Equation class
             Equation equate = new Equation();
             // calling Multiply method passing in respected arguments
-            equate.Multiply(25, out int display);
+            equate.Multiply(number: 25, display: out int display); // added named variables
 
             // calling Multiply method with named variables of their respected arguments
             // NOTE: uncomment (ctrl + k + u) the below code 

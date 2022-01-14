@@ -9,7 +9,7 @@ namespace MethodClass
     public class Equation
     {
         // creating a void method that takes two integer parameters
-        public void Multiply(int number, out int display)
+        public void Multiply( int number, out int display)
         {            
             // performing math operation on first integer
             int x = number * 200;
