@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\bin\Debug\MethodObjects.exe.config
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\bin\Debug\MethodObjects.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\bin\Debug\MethodObjects.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\obj\Debug\MethodObjects.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\obj\Debug\MethodObjects.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\obj\Debug\MethodObjects.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Assignments\MethodObjects\MethodObjects\obj\Debug\MethodObjects.pdb
