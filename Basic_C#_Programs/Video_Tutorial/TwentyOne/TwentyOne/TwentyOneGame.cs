@@ -10,9 +10,16 @@ namespace TwentyOne
     // inherited class
     public class TwentyOneGame : Game
     {
-        public void Play()
+        // when inheriting from an abstract, you must used its abstract method
+        // by adding "override" using the same name (Play) and return (void)
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players: ");
+            base.ListPlayers();
         }
     }
 }

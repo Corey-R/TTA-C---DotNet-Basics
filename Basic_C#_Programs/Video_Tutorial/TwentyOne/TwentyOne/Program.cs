@@ -11,19 +11,27 @@ namespace TwentyOne
         // methods include:
         // access modifier (public), static if there is no instance of the class (static), 
         // return type (void = return nothing), name of method (Main()), and parameters if needed
+
+
+
+
         static void Main(string[] args)
         {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
+            Console.Read();
             // instantiate a Deck of cards
             // Data Type "Deck" named Deck equals a new Deck() object
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-            Console.Read();
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.Read();
         }                     
     }
 }
