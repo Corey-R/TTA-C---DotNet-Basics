@@ -51,5 +51,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Polymorphism\Polymorphism\Polymorphism.csproj">
+      <Project>{070cb9ee-c3bb-4bbd-a641-bd643f2a1d77}</Project>
+      <Name>Polymorphism</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
