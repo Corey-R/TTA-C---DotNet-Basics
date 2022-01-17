@@ -14,12 +14,12 @@ namespace TwentyOne
         public bool IsActivelyPlaying { get; set; }
 
         // Operator Overloading 
-        public static Game operator+ (Game game, Player player)
+        public static Game operator +(Game game, Player player)
         {
             game.Players.Add(player);
             return game;
         }
-        public static Game operator- (Game game, Player player)
+        public static Game operator -(Game game, Player player)
         {
             game.Players.Remove(player);
             return game;

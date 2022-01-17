@@ -16,14 +16,7 @@ namespace TwentyOne
 
 
         static void Main(string[] args)
-        {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
-
+        {           
             // instantiate a Deck of cards
             // Data Type "Deck" named Deck equals a new Deck() object
             Deck deck = new Deck();
