@@ -16,7 +16,8 @@ namespace TwentyOne
 
 
         static void Main(string[] args)
-        {           
+        {
+
             // instantiate a Deck of cards
             // Data Type "Deck" named Deck equals a new Deck() object
             Deck deck = new Deck();
@@ -28,6 +29,7 @@ namespace TwentyOne
             }
             Console.WriteLine(deck.Cards.Count);
             Console.Read();
-        }                     
+        }            
+       
     }
 }
