@@ -8,6 +8,12 @@ namespace Enums
 {
     class Program
     {
+        // ENUMS ASSIGNMENT 
+        //=============================
+
+        // NOTE: Here's the URL I used to learn about enum.Parse method
+        // LINK: https://www.csharp-examples.net/string-to-enum/
+
         static void Main(string[] args)
         {     
             bool go = true;
