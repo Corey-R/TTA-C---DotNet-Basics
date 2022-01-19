@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne // NOTE: both classes have the same namespace
 {    
-   public class Card // Note: You want ONE class per file
+   public struct Card // Note: You want ONE class per file
     {                
         // thinking about the what is a card, what properties make up a card
         // cards have numbers, a suit (heart, diamonds, etc.), a front and back, etc.

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace TwentyOne
 {
     class Program
-    {        
-        
-            
+    {
+
+
         // methods include:
         // access modifier (public), static if there is no instance of the class (static), 
         // return type (void = return nothing), name of method (Main()), and parameters if needed
@@ -19,13 +19,9 @@ namespace TwentyOne
 
         static void Main(string[] args)
         {
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.King;
-            card2.Face = Face.Queen;
             // instantiate a Deck of cards
             // Data Type "Deck" named Deck equals a new Deck() object
-            //Deck deck = new Deck();
+            Deck deck = new Deck();                                   
             //deck.Shuffle(3);
 
             //foreach (Card card in deck.Cards)
