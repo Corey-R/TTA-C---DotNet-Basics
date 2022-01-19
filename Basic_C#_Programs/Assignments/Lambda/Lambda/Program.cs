@@ -22,6 +22,8 @@ namespace Lambda
             //LAMBDA ASSIGNMENT 
             //================================
 
+            // REFERENCE LINK: 
+           //https://stackoverflow.com/questions/31430642/how-to-add-named-objects-to-a-list-when-declaring-the-list-c-sharp
             // creating a list of employees with:
             // firstName, lastName, and id
             List<Employee> employees = new List<Employee>()
