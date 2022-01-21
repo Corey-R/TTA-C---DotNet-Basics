@@ -18,6 +18,11 @@ namespace TwentyOne // NOTE: both classes have the same namespace
         // Suit is the name of the property
         // You can "get" the property and/or you can "set" the property
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {

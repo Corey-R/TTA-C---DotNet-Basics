@@ -1,0 +1,3 @@
+The number you enter was: 7000
+The number you enter was: 5
+The number you enter was: 10
