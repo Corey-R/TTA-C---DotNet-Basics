@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne // NOTE: both classes have the same namespace
+namespace Casino1 // NOTE: both classes have the same namespace
 {    
    public struct Card // Note: You want ONE class per file
     {                

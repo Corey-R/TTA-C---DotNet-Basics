@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino1.TwentyOne
 {
     // To inherit from a class just add a colon after the class name and enter the name of the 
     // inherited class

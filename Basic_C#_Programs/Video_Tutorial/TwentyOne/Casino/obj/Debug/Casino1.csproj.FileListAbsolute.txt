@@ -1,0 +1,6 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\bin\Debug\Casino1.dll
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\bin\Debug\Casino1.pdb
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\obj\Debug\Casino1.csproj.AssemblyReference.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\obj\Debug\Casino1.csproj.CoreCompileInputs.cache
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\obj\Debug\Casino1.dll
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\TwentyOne\Casino\obj\Debug\Casino1.pdb

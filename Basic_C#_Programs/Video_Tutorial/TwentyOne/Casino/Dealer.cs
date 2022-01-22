@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino1
 {
     public class Dealer
     {
@@ -20,7 +20,8 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Logs\Log.txt", true))
             {
-                file.WriteLine(card);
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);                
             }
             Deck.Cards.RemoveAt(0);
 

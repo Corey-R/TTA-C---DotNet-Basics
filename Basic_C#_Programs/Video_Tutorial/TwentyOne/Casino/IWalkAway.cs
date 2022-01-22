@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino1
 {
     // NOTE: .NET Framework only allows a class to inherit from only ONE class
     // This is where interfaces come into play.
