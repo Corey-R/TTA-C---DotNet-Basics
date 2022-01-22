@@ -1,10 +1,11 @@
 ﻿using System;
 using Casino1;
 using Casino1.TwentyOne;
+using System.IO;
 
 namespace TwentyOne
 {
-    public class Program
+    class Program
     {
 
 
@@ -15,9 +16,9 @@ namespace TwentyOne
 
 
 
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-
+            
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -27,6 +28,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Logs\Log.txt", true))
+                {
+                    file.WriteLine(player.Id);                   
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivelyPlaying = true;
