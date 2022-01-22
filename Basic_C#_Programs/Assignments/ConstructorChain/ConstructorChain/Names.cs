@@ -8,15 +8,19 @@ namespace ConstructorChain
 {
     public class Names
     {
-        public Names(string fName) : this(fName, "X")
+        // defining Constructor Chain that only takes one string value
+        public Names(string fName) : this(fName, "X") // inheriting constructor with two string values
         {
+            // inherits the implementation from the below constructor...
         }
+        // defining constructor that takes 2 string values
         public Names(string fName, string lName)
         {
-            FirstName = fName;
-            LastName = lName;
-            FullName = fName + " " + lName;
+            FirstName = fName; // stores fName value in "FirstName" property
+            LastName = lName; // stores lName value in "LastName" property
+            FullName = fName + " " + lName; // combines first and last name with space provided
         }
+        // Defines the properties used in above constructors
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName { get; set; }
