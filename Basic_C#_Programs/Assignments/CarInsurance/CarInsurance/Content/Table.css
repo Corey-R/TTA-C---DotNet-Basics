@@ -1,0 +1,16 @@
+﻿body {
+}
+table {
+    width: 50%;
+    border: 2px solid black;    
+    font-size = 15px;
+}
+th {
+    background-color: lightgray;
+    font-weight: 600;
+    text-align: center;
+}
+td, tr, th {
+    border: 2px solid black;
+}
+
