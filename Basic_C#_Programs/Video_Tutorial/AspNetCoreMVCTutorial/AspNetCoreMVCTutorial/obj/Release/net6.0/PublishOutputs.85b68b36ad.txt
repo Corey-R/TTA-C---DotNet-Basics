@@ -1,0 +1,7 @@
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\AspNetCoreMVCTutorial.exe
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\AspNetCoreMVCTutorial.dll
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\AspNetCoreMVCTutorial.deps.json
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\AspNetCoreMVCTutorial.runtimeconfig.json
+C:\Users\Corey Reid\Documents\GitHub\TTA-CSharp--DotNet-Basics\Basic_C#_Programs\Video_Tutorial\AspNetCoreMVCTutorial\AspNetCoreMVCTutorial\obj\Release\net6.0\PubTmp\Out\AspNetCoreMVCTutorial.pdb
