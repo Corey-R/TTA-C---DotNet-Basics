@@ -5,8 +5,8 @@ This repository will contain basic projects, assignments, and challenges develop
 ## Projects
 
 
-* [Twenty One] (./Basic_C#_Programs/Video_Tutorial/TwentyOne/TwentyOne.sln)
-* [Car Insurance] (./Basic_C#_Programs/Assignments/CarInsurance/CarInsurance.sln)
+* [Twenty One](./Basic_C#_Programs/Video_Tutorial/TwentyOne/TwentyOne.sln)
+* [Car Insurance](./Basic_C#_Programs/Assignments/CarInsurance/CarInsurance.sln)
 
 
 ### Twenty One
